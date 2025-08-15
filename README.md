@@ -1,3 +1,5 @@
+<img src="docs/capa_projeto.png" alt="Capa do Projeto" width="800">
+
 # PETrecognition – Face Recognition with Photo-based Anti-Spoofing
 
 **PETrecognition** is a computer vision project that integrates **image enhancement techniques**, **face recognition**, and a **photo-based anti-spoofing system** designed to detect and block fraudulent attempts using photos displayed on smartphones.
